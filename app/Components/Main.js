@@ -80,7 +80,7 @@ class Main extends Component {
         </View>
         <View style={styles.arrowView}>
           <Image
-            source={{ uri: 'http://www.clker.com/cliparts/V/1/Z/A/h/U/left-arrow-right-hi.png' }}
+            source={{ uri: 'https://raw.githubusercontent.com/deoliveiralucas/react-native-study/master/app/Images/arrow-right.png' }}
             style={styles.arrowImage}
           />
         </View>
