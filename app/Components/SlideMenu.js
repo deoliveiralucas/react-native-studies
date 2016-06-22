@@ -1,7 +1,7 @@
 import React from 'react';
 import {
-    ScrollView,
-    StyleSheet,
+  ScrollView,
+  StyleSheet,
 } from 'react-native';
 
 import moment from 'moment';

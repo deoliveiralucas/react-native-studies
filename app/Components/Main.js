@@ -14,7 +14,7 @@ import {
 
 import SlideMenu from './SlideMenu';
 
-var REQUEST_URL = 'https://raw.githubusercontent.com/facebook/react-native/master/docs/MoviesExample.json';
+var REQUEST_URL = 'https://raw.githubusercontent.com/deoliveiralucas/react-native-study/master/app/Api/calendar.json';
 
 var Dimensions = require('Dimensions');
 var windowSize = Dimensions.get('window');
@@ -39,7 +39,7 @@ class Main extends Component {
       .then((response) => response.json())
       .then((responseData) => {
         this.setState({
-          dataSource: this.state.dataSource.cloneWithRows(responseData.movies),
+          dataSource: this.state.dataSource.cloneWithRows(responseData[0].exercises),
           loaded: true,
         });
       })
@@ -70,15 +70,15 @@ class Main extends Component {
     );
   }
 
-  renderSchedules(movie) {
+  renderSchedules(exercise) {
     return (
       <View style={styles.container}>
         <View style={styles.dateView}>
           <Text style={styles.dateText}>6: 45 AM</Text>
         </View>
         <View style={styles.rightContainer}>
-          <Text style={styles.title}>{ movie.title }</Text>
-          <Text style={styles.year}>{ movie.year }</Text>
+          <Text style={styles.title}>{ exercise.name }</Text>
+          <Text style={styles.year}>{ exercise.room }</Text>
         </View>
         <View style={styles.arrowView}>
           <Image
