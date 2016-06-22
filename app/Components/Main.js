@@ -9,13 +9,12 @@ import {
   Image,
   StyleSheet,
   ScrollView,
-  TouchableHighlight,
 } from 'react-native';
 
+import moment from 'moment';
 import SlideMenu from './SlideMenu';
 
-var REQUEST_URL = 'https://raw.githubusercontent.com/deoliveiralucas/react-native-study/master/app/Api/calendar.json';
-
+var api = require('../Api/api');
 var Dimensions = require('Dimensions');
 var windowSize = Dimensions.get('window');
 
@@ -25,8 +24,7 @@ class Main extends Component {
     this.state = {
       dataSource: new ListView.DataSource({
         rowHasChanged: (row1, row2) => row1 !== row2,
-      }),
-      loaded: false,
+      })
     };
   }
 
@@ -35,12 +33,12 @@ class Main extends Component {
   }
 
   fetchData() {
-    fetch(REQUEST_URL)
+    fetch(api.getUri())
       .then((response) => response.json())
       .then((responseData) => {
         this.setState({
           dataSource: this.state.dataSource.cloneWithRows(responseData[0].exercises),
-          loaded: true,
+          dateSelected: responseData[0].day
         });
       })
       .done();
@@ -52,8 +50,8 @@ class Main extends Component {
         <View style={styles.titleView}>
           <Text style={styles.titleText}>GROUP FITNESS</Text>
         </View>
-        <SlideMenu />
-        <Text style={styles.dayTitleText}>JUNE 11, 2016</Text>
+        <SlideMenu list={this} />
+        <Text style={styles.dayTitleText}>{ moment(this.state.dateSelected, "YYYY-MM-DD").format('MMMM D, YYYY') }</Text>
         <ScrollView
           contentInset={{ top: -50 }}
           scrollEventThrottle={200}
@@ -74,11 +72,11 @@ class Main extends Component {
     return (
       <View style={styles.container}>
         <View style={styles.dateView}>
-          <Text style={styles.dateText}>6: 45 AM</Text>
+          <Text style={styles.dateText}>{ moment(exercise.hour, "HH:mm").format('h:mm A') }</Text>
         </View>
         <View style={styles.rightContainer}>
-          <Text style={styles.title}>{ exercise.name }</Text>
-          <Text style={styles.year}>{ exercise.room }</Text>
+          <Text style={styles.nameText}>{ exercise.name }</Text>
+          <Text style={styles.roomText}>{ exercise.room }</Text>
         </View>
         <View style={styles.arrowView}>
           <Image
@@ -132,14 +130,14 @@ const styles = StyleSheet.create({
     width: 10,
     height: 15,
   },
-  title: {
+  nameText: {
     marginTop: 11,
     fontSize: 13,
     marginBottom: 3,
     textAlign: 'left',
     fontWeight: 'bold',
   },
-  year: {
+  roomText: {
     textAlign: 'left',
     fontSize: 11,
     marginBottom: 10,
@@ -163,6 +161,5 @@ const styles = StyleSheet.create({
     backgroundColor: '#eb0000',
   },
 });
-
 
 module.exports = Main;

@@ -1,28 +1,32 @@
 import React from 'react';
 import {
-    StyleSheet,
-    View,
-    Text,
-    TouchableHighlight,
+  StyleSheet,
+  View,
+  Text,
+  TouchableHighlight,
 } from 'react-native';
 
 import moment from 'moment';
+import Main from './Main';
 
 class BoxCalendar extends React.Component {
   constructor(props) {
     super(props);
   }
 
-  loadExercises(day) {
-    alert(day);
+  loadExercises(slide, day, exercises) {
+    slide.setState({
+      dataSource: slide.state.dataSource.cloneWithRows(exercises),
+      dateSelected: day
+    });
   }
 
   render() {
     return (
-      <TouchableHighlight onPress={() => this.loadExercises(this.props.data.day) }>
+      <TouchableHighlight onPress={() => this.loadExercises(this.props.slide, this.props.data.day, this.props.data.exercises) }>
         <View style={styles.calendarView}>
           <Text style={styles.weekDayText}>{ moment(this.props.data.day, "YYYY-MM-DD").format('ddd').toString().toUpperCase() }</Text>
-          <Text style={styles.dayText}>{ moment(this.props.data.day, "YYYY-MM-DD").format('d') }</Text>
+          <Text style={styles.dayText}>{ moment(this.props.data.day, "YYYY-MM-DD").format('D') }</Text>
         </View>
       </TouchableHighlight>
     );
