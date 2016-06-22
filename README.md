@@ -1,2 +1,2 @@
-# react-native-study
+# react-native-studies
 Simple app with React Native
