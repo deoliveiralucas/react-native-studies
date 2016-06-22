@@ -1,0 +1,415 @@
+[
+  {
+    "day": "2016-05-05",
+    "exercises": [
+      {
+        "hour": "6:45",
+        "name": "BODY STRONG",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus eget blandit ex. Nunc quis finibus velit, maximus suscipit leo. Vestibulum lobortis mattis dui eu pellentesque. Integer luctus mattis quam ut porttitor. Donec in eros ac nunc luctus tincidunt. Nunc eget libero lectus. Praesent massa quam, accumsan quis finibus vitae, pellentesque ut purus. Ut aliquet ligula urna, eu venenatis mi iaculis ornare. Sed et varius libero. Morbi nec dapibus tellus. Vivamus eu dictum ligula, a consectetur nibh. Vivamus volutpat leo nunc, a tempus enim facilisis id. Donec ac elit gravida, rhoncus odio id, vehicula nisi. Nam pretium gravida tellus, vitae iaculis nisl lobortis id. Donec luctus commodo blandit. Phasellus rhoncus dolor sodales lorem suscipit viverra.",
+        "room": "COLE FIELD HOUSE ROOM 4"
+      },
+      {
+        "hour": "7:45",
+        "name": "BODY STRONG",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus eget blandit ex. Nunc quis finibus velit, maximus suscipit leo. Vestibulum lobortis mattis dui eu pellentesque. Integer luctus mattis quam ut porttitor. Donec in eros ac nunc luctus tincidunt. Nunc eget libero lectus. Praesent massa quam, accumsan quis finibus vitae, pellentesque ut purus. Ut aliquet ligula urna, eu venenatis mi iaculis ornare. Sed et varius libero. Morbi nec dapibus tellus. Vivamus eu dictum ligula, a consectetur nibh. Vivamus volutpat leo nunc, a tempus enim facilisis id. Donec ac elit gravida, rhoncus odio id, vehicula nisi. Nam pretium gravida tellus, vitae iaculis nisl lobortis id. Donec luctus commodo blandit. Phasellus rhoncus dolor sodales lorem suscipit viverra.",
+        "room": "COLE FIELD HOUSE ROOM 4"
+      },
+      {
+        "hour": "8:45",
+        "name": "BODY STRONG",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus eget blandit ex. Nunc quis finibus velit, maximus suscipit leo. Vestibulum lobortis mattis dui eu pellentesque. Integer luctus mattis quam ut porttitor. Donec in eros ac nunc luctus tincidunt. Nunc eget libero lectus. Praesent massa quam, accumsan quis finibus vitae, pellentesque ut purus. Ut aliquet ligula urna, eu venenatis mi iaculis ornare. Sed et varius libero. Morbi nec dapibus tellus. Vivamus eu dictum ligula, a consectetur nibh. Vivamus volutpat leo nunc, a tempus enim facilisis id. Donec ac elit gravida, rhoncus odio id, vehicula nisi. Nam pretium gravida tellus, vitae iaculis nisl lobortis id. Donec luctus commodo blandit. Phasellus rhoncus dolor sodales lorem suscipit viverra.",
+        "room": "COLE FIELD HOUSE ROOM 4"
+      },
+      {
+        "hour": "9:45",
+        "name": "BODY STRONG",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus eget blandit ex. Nunc quis finibus velit, maximus suscipit leo. Vestibulum lobortis mattis dui eu pellentesque. Integer luctus mattis quam ut porttitor. Donec in eros ac nunc luctus tincidunt. Nunc eget libero lectus. Praesent massa quam, accumsan quis finibus vitae, pellentesque ut purus. Ut aliquet ligula urna, eu venenatis mi iaculis ornare. Sed et varius libero. Morbi nec dapibus tellus. Vivamus eu dictum ligula, a consectetur nibh. Vivamus volutpat leo nunc, a tempus enim facilisis id. Donec ac elit gravida, rhoncus odio id, vehicula nisi. Nam pretium gravida tellus, vitae iaculis nisl lobortis id. Donec luctus commodo blandit. Phasellus rhoncus dolor sodales lorem suscipit viverra.",
+        "room": "COLE FIELD HOUSE ROOM 4"
+      },
+      {
+        "hour": "9:45",
+        "name": "BODY STRONG",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus eget blandit ex. Nunc quis finibus velit, maximus suscipit leo. Vestibulum lobortis mattis dui eu pellentesque. Integer luctus mattis quam ut porttitor. Donec in eros ac nunc luctus tincidunt. Nunc eget libero lectus. Praesent massa quam, accumsan quis finibus vitae, pellentesque ut purus. Ut aliquet ligula urna, eu venenatis mi iaculis ornare. Sed et varius libero. Morbi nec dapibus tellus. Vivamus eu dictum ligula, a consectetur nibh. Vivamus volutpat leo nunc, a tempus enim facilisis id. Donec ac elit gravida, rhoncus odio id, vehicula nisi. Nam pretium gravida tellus, vitae iaculis nisl lobortis id. Donec luctus commodo blandit. Phasellus rhoncus dolor sodales lorem suscipit viverra.",
+        "room": "COLE FIELD HOUSE ROOM 4"
+      },
+      {
+        "hour": "9:45",
+        "name": "BODY STRONG",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus eget blandit ex. Nunc quis finibus velit, maximus suscipit leo. Vestibulum lobortis mattis dui eu pellentesque. Integer luctus mattis quam ut porttitor. Donec in eros ac nunc luctus tincidunt. Nunc eget libero lectus. Praesent massa quam, accumsan quis finibus vitae, pellentesque ut purus. Ut aliquet ligula urna, eu venenatis mi iaculis ornare. Sed et varius libero. Morbi nec dapibus tellus. Vivamus eu dictum ligula, a consectetur nibh. Vivamus volutpat leo nunc, a tempus enim facilisis id. Donec ac elit gravida, rhoncus odio id, vehicula nisi. Nam pretium gravida tellus, vitae iaculis nisl lobortis id. Donec luctus commodo blandit. Phasellus rhoncus dolor sodales lorem suscipit viverra.",
+        "room": "COLE FIELD HOUSE ROOM 4"
+      },
+      {
+        "hour": "10:45",
+        "name": "BODY STRONG",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus eget blandit ex. Nunc quis finibus velit, maximus suscipit leo. Vestibulum lobortis mattis dui eu pellentesque. Integer luctus mattis quam ut porttitor. Donec in eros ac nunc luctus tincidunt. Nunc eget libero lectus. Praesent massa quam, accumsan quis finibus vitae, pellentesque ut purus. Ut aliquet ligula urna, eu venenatis mi iaculis ornare. Sed et varius libero. Morbi nec dapibus tellus. Vivamus eu dictum ligula, a consectetur nibh. Vivamus volutpat leo nunc, a tempus enim facilisis id. Donec ac elit gravida, rhoncus odio id, vehicula nisi. Nam pretium gravida tellus, vitae iaculis nisl lobortis id. Donec luctus commodo blandit. Phasellus rhoncus dolor sodales lorem suscipit viverra.",
+        "room": "COLE FIELD HOUSE ROOM 4"
+      },
+      {
+        "hour": "11:45",
+        "name": "BODY STRONG",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus eget blandit ex. Nunc quis finibus velit, maximus suscipit leo. Vestibulum lobortis mattis dui eu pellentesque. Integer luctus mattis quam ut porttitor. Donec in eros ac nunc luctus tincidunt. Nunc eget libero lectus. Praesent massa quam, accumsan quis finibus vitae, pellentesque ut purus. Ut aliquet ligula urna, eu venenatis mi iaculis ornare. Sed et varius libero. Morbi nec dapibus tellus. Vivamus eu dictum ligula, a consectetur nibh. Vivamus volutpat leo nunc, a tempus enim facilisis id. Donec ac elit gravida, rhoncus odio id, vehicula nisi. Nam pretium gravida tellus, vitae iaculis nisl lobortis id. Donec luctus commodo blandit. Phasellus rhoncus dolor sodales lorem suscipit viverra.",
+        "room": "COLE FIELD HOUSE ROOM 4"
+      },
+      {
+        "hour": "12:45",
+        "name": "BODY STRONG",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus eget blandit ex. Nunc quis finibus velit, maximus suscipit leo. Vestibulum lobortis mattis dui eu pellentesque. Integer luctus mattis quam ut porttitor. Donec in eros ac nunc luctus tincidunt. Nunc eget libero lectus. Praesent massa quam, accumsan quis finibus vitae, pellentesque ut purus. Ut aliquet ligula urna, eu venenatis mi iaculis ornare. Sed et varius libero. Morbi nec dapibus tellus. Vivamus eu dictum ligula, a consectetur nibh. Vivamus volutpat leo nunc, a tempus enim facilisis id. Donec ac elit gravida, rhoncus odio id, vehicula nisi. Nam pretium gravida tellus, vitae iaculis nisl lobortis id. Donec luctus commodo blandit. Phasellus rhoncus dolor sodales lorem suscipit viverra.",
+        "room": "COLE FIELD HOUSE ROOM 4"
+      },
+    ]
+  },
+  {
+    "day": "2016-05-06",
+    "exercises": [
+      {
+        "hour": "6:45",
+        "name": "INSANITY 50",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus eget blandit ex. Nunc quis finibus velit, maximus suscipit leo. Vestibulum lobortis mattis dui eu pellentesque. Integer luctus mattis quam ut porttitor. Donec in eros ac nunc luctus tincidunt. Nunc eget libero lectus. Praesent massa quam, accumsan quis finibus vitae, pellentesque ut purus. Ut aliquet ligula urna, eu venenatis mi iaculis ornare. Sed et varius libero. Morbi nec dapibus tellus. Vivamus eu dictum ligula, a consectetur nibh. Vivamus volutpat leo nunc, a tempus enim facilisis id. Donec ac elit gravida, rhoncus odio id, vehicula nisi. Nam pretium gravida tellus, vitae iaculis nisl lobortis id. Donec luctus commodo blandit. Phasellus rhoncus dolor sodales lorem suscipit viverra.",
+        "room": "COLE FIELD HOUSE ROOM 4"
+      },
+      {
+        "hour": "7:45",
+        "name": "INSANITY 50",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus eget blandit ex. Nunc quis finibus velit, maximus suscipit leo. Vestibulum lobortis mattis dui eu pellentesque. Integer luctus mattis quam ut porttitor. Donec in eros ac nunc luctus tincidunt. Nunc eget libero lectus. Praesent massa quam, accumsan quis finibus vitae, pellentesque ut purus. Ut aliquet ligula urna, eu venenatis mi iaculis ornare. Sed et varius libero. Morbi nec dapibus tellus. Vivamus eu dictum ligula, a consectetur nibh. Vivamus volutpat leo nunc, a tempus enim facilisis id. Donec ac elit gravida, rhoncus odio id, vehicula nisi. Nam pretium gravida tellus, vitae iaculis nisl lobortis id. Donec luctus commodo blandit. Phasellus rhoncus dolor sodales lorem suscipit viverra.",
+        "room": "COLE FIELD HOUSE ROOM 4"
+      },
+      {
+        "hour": "8:45",
+        "name": "INSANITY 50",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus eget blandit ex. Nunc quis finibus velit, maximus suscipit leo. Vestibulum lobortis mattis dui eu pellentesque. Integer luctus mattis quam ut porttitor. Donec in eros ac nunc luctus tincidunt. Nunc eget libero lectus. Praesent massa quam, accumsan quis finibus vitae, pellentesque ut purus. Ut aliquet ligula urna, eu venenatis mi iaculis ornare. Sed et varius libero. Morbi nec dapibus tellus. Vivamus eu dictum ligula, a consectetur nibh. Vivamus volutpat leo nunc, a tempus enim facilisis id. Donec ac elit gravida, rhoncus odio id, vehicula nisi. Nam pretium gravida tellus, vitae iaculis nisl lobortis id. Donec luctus commodo blandit. Phasellus rhoncus dolor sodales lorem suscipit viverra.",
+        "room": "COLE FIELD HOUSE ROOM 4"
+      },
+      {
+        "hour": "9:45",
+        "name": "INSANITY 50",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus eget blandit ex. Nunc quis finibus velit, maximus suscipit leo. Vestibulum lobortis mattis dui eu pellentesque. Integer luctus mattis quam ut porttitor. Donec in eros ac nunc luctus tincidunt. Nunc eget libero lectus. Praesent massa quam, accumsan quis finibus vitae, pellentesque ut purus. Ut aliquet ligula urna, eu venenatis mi iaculis ornare. Sed et varius libero. Morbi nec dapibus tellus. Vivamus eu dictum ligula, a consectetur nibh. Vivamus volutpat leo nunc, a tempus enim facilisis id. Donec ac elit gravida, rhoncus odio id, vehicula nisi. Nam pretium gravida tellus, vitae iaculis nisl lobortis id. Donec luctus commodo blandit. Phasellus rhoncus dolor sodales lorem suscipit viverra.",
+        "room": "COLE FIELD HOUSE ROOM 4"
+      },
+      {
+        "hour": "9:45",
+        "name": "INSANITY 50",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus eget blandit ex. Nunc quis finibus velit, maximus suscipit leo. Vestibulum lobortis mattis dui eu pellentesque. Integer luctus mattis quam ut porttitor. Donec in eros ac nunc luctus tincidunt. Nunc eget libero lectus. Praesent massa quam, accumsan quis finibus vitae, pellentesque ut purus. Ut aliquet ligula urna, eu venenatis mi iaculis ornare. Sed et varius libero. Morbi nec dapibus tellus. Vivamus eu dictum ligula, a consectetur nibh. Vivamus volutpat leo nunc, a tempus enim facilisis id. Donec ac elit gravida, rhoncus odio id, vehicula nisi. Nam pretium gravida tellus, vitae iaculis nisl lobortis id. Donec luctus commodo blandit. Phasellus rhoncus dolor sodales lorem suscipit viverra.",
+        "room": "COLE FIELD HOUSE ROOM 4"
+      },
+      {
+        "hour": "9:45",
+        "name": "INSANITY 50",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus eget blandit ex. Nunc quis finibus velit, maximus suscipit leo. Vestibulum lobortis mattis dui eu pellentesque. Integer luctus mattis quam ut porttitor. Donec in eros ac nunc luctus tincidunt. Nunc eget libero lectus. Praesent massa quam, accumsan quis finibus vitae, pellentesque ut purus. Ut aliquet ligula urna, eu venenatis mi iaculis ornare. Sed et varius libero. Morbi nec dapibus tellus. Vivamus eu dictum ligula, a consectetur nibh. Vivamus volutpat leo nunc, a tempus enim facilisis id. Donec ac elit gravida, rhoncus odio id, vehicula nisi. Nam pretium gravida tellus, vitae iaculis nisl lobortis id. Donec luctus commodo blandit. Phasellus rhoncus dolor sodales lorem suscipit viverra.",
+        "room": "COLE FIELD HOUSE ROOM 4"
+      },
+      {
+        "hour": "10:45",
+        "name": "INSANITY 50",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus eget blandit ex. Nunc quis finibus velit, maximus suscipit leo. Vestibulum lobortis mattis dui eu pellentesque. Integer luctus mattis quam ut porttitor. Donec in eros ac nunc luctus tincidunt. Nunc eget libero lectus. Praesent massa quam, accumsan quis finibus vitae, pellentesque ut purus. Ut aliquet ligula urna, eu venenatis mi iaculis ornare. Sed et varius libero. Morbi nec dapibus tellus. Vivamus eu dictum ligula, a consectetur nibh. Vivamus volutpat leo nunc, a tempus enim facilisis id. Donec ac elit gravida, rhoncus odio id, vehicula nisi. Nam pretium gravida tellus, vitae iaculis nisl lobortis id. Donec luctus commodo blandit. Phasellus rhoncus dolor sodales lorem suscipit viverra.",
+        "room": "COLE FIELD HOUSE ROOM 4"
+      },
+      {
+        "hour": "11:45",
+        "name": "INSANITY 50",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus eget blandit ex. Nunc quis finibus velit, maximus suscipit leo. Vestibulum lobortis mattis dui eu pellentesque. Integer luctus mattis quam ut porttitor. Donec in eros ac nunc luctus tincidunt. Nunc eget libero lectus. Praesent massa quam, accumsan quis finibus vitae, pellentesque ut purus. Ut aliquet ligula urna, eu venenatis mi iaculis ornare. Sed et varius libero. Morbi nec dapibus tellus. Vivamus eu dictum ligula, a consectetur nibh. Vivamus volutpat leo nunc, a tempus enim facilisis id. Donec ac elit gravida, rhoncus odio id, vehicula nisi. Nam pretium gravida tellus, vitae iaculis nisl lobortis id. Donec luctus commodo blandit. Phasellus rhoncus dolor sodales lorem suscipit viverra.",
+        "room": "COLE FIELD HOUSE ROOM 4"
+      },
+      {
+        "hour": "12:45",
+        "name": "INSANITY 50",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus eget blandit ex. Nunc quis finibus velit, maximus suscipit leo. Vestibulum lobortis mattis dui eu pellentesque. Integer luctus mattis quam ut porttitor. Donec in eros ac nunc luctus tincidunt. Nunc eget libero lectus. Praesent massa quam, accumsan quis finibus vitae, pellentesque ut purus. Ut aliquet ligula urna, eu venenatis mi iaculis ornare. Sed et varius libero. Morbi nec dapibus tellus. Vivamus eu dictum ligula, a consectetur nibh. Vivamus volutpat leo nunc, a tempus enim facilisis id. Donec ac elit gravida, rhoncus odio id, vehicula nisi. Nam pretium gravida tellus, vitae iaculis nisl lobortis id. Donec luctus commodo blandit. Phasellus rhoncus dolor sodales lorem suscipit viverra.",
+        "room": "COLE FIELD HOUSE ROOM 4"
+      },
+    ]
+  },
+  {
+    "day": "2016-05-07",
+    "exercises": [
+      {
+        "hour": "6:45",
+        "name": "CYCLE 45",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus eget blandit ex. Nunc quis finibus velit, maximus suscipit leo. Vestibulum lobortis mattis dui eu pellentesque. Integer luctus mattis quam ut porttitor. Donec in eros ac nunc luctus tincidunt. Nunc eget libero lectus. Praesent massa quam, accumsan quis finibus vitae, pellentesque ut purus. Ut aliquet ligula urna, eu venenatis mi iaculis ornare. Sed et varius libero. Morbi nec dapibus tellus. Vivamus eu dictum ligula, a consectetur nibh. Vivamus volutpat leo nunc, a tempus enim facilisis id. Donec ac elit gravida, rhoncus odio id, vehicula nisi. Nam pretium gravida tellus, vitae iaculis nisl lobortis id. Donec luctus commodo blandit. Phasellus rhoncus dolor sodales lorem suscipit viverra.",
+        "room": "COLE FIELD HOUSE ROOM 4"
+      },
+      {
+        "hour": "7:45",
+        "name": "CYCLE 45",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus eget blandit ex. Nunc quis finibus velit, maximus suscipit leo. Vestibulum lobortis mattis dui eu pellentesque. Integer luctus mattis quam ut porttitor. Donec in eros ac nunc luctus tincidunt. Nunc eget libero lectus. Praesent massa quam, accumsan quis finibus vitae, pellentesque ut purus. Ut aliquet ligula urna, eu venenatis mi iaculis ornare. Sed et varius libero. Morbi nec dapibus tellus. Vivamus eu dictum ligula, a consectetur nibh. Vivamus volutpat leo nunc, a tempus enim facilisis id. Donec ac elit gravida, rhoncus odio id, vehicula nisi. Nam pretium gravida tellus, vitae iaculis nisl lobortis id. Donec luctus commodo blandit. Phasellus rhoncus dolor sodales lorem suscipit viverra.",
+        "room": "COLE FIELD HOUSE ROOM 4"
+      },
+      {
+        "hour": "8:45",
+        "name": "CYCLE 45",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus eget blandit ex. Nunc quis finibus velit, maximus suscipit leo. Vestibulum lobortis mattis dui eu pellentesque. Integer luctus mattis quam ut porttitor. Donec in eros ac nunc luctus tincidunt. Nunc eget libero lectus. Praesent massa quam, accumsan quis finibus vitae, pellentesque ut purus. Ut aliquet ligula urna, eu venenatis mi iaculis ornare. Sed et varius libero. Morbi nec dapibus tellus. Vivamus eu dictum ligula, a consectetur nibh. Vivamus volutpat leo nunc, a tempus enim facilisis id. Donec ac elit gravida, rhoncus odio id, vehicula nisi. Nam pretium gravida tellus, vitae iaculis nisl lobortis id. Donec luctus commodo blandit. Phasellus rhoncus dolor sodales lorem suscipit viverra.",
+        "room": "COLE FIELD HOUSE ROOM 4"
+      },
+      {
+        "hour": "9:45",
+        "name": "CYCLE 45",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus eget blandit ex. Nunc quis finibus velit, maximus suscipit leo. Vestibulum lobortis mattis dui eu pellentesque. Integer luctus mattis quam ut porttitor. Donec in eros ac nunc luctus tincidunt. Nunc eget libero lectus. Praesent massa quam, accumsan quis finibus vitae, pellentesque ut purus. Ut aliquet ligula urna, eu venenatis mi iaculis ornare. Sed et varius libero. Morbi nec dapibus tellus. Vivamus eu dictum ligula, a consectetur nibh. Vivamus volutpat leo nunc, a tempus enim facilisis id. Donec ac elit gravida, rhoncus odio id, vehicula nisi. Nam pretium gravida tellus, vitae iaculis nisl lobortis id. Donec luctus commodo blandit. Phasellus rhoncus dolor sodales lorem suscipit viverra.",
+        "room": "COLE FIELD HOUSE ROOM 4"
+      },
+      {
+        "hour": "9:45",
+        "name": "CYCLE 45",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus eget blandit ex. Nunc quis finibus velit, maximus suscipit leo. Vestibulum lobortis mattis dui eu pellentesque. Integer luctus mattis quam ut porttitor. Donec in eros ac nunc luctus tincidunt. Nunc eget libero lectus. Praesent massa quam, accumsan quis finibus vitae, pellentesque ut purus. Ut aliquet ligula urna, eu venenatis mi iaculis ornare. Sed et varius libero. Morbi nec dapibus tellus. Vivamus eu dictum ligula, a consectetur nibh. Vivamus volutpat leo nunc, a tempus enim facilisis id. Donec ac elit gravida, rhoncus odio id, vehicula nisi. Nam pretium gravida tellus, vitae iaculis nisl lobortis id. Donec luctus commodo blandit. Phasellus rhoncus dolor sodales lorem suscipit viverra.",
+        "room": "COLE FIELD HOUSE ROOM 4"
+      },
+      {
+        "hour": "9:45",
+        "name": "CYCLE 45",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus eget blandit ex. Nunc quis finibus velit, maximus suscipit leo. Vestibulum lobortis mattis dui eu pellentesque. Integer luctus mattis quam ut porttitor. Donec in eros ac nunc luctus tincidunt. Nunc eget libero lectus. Praesent massa quam, accumsan quis finibus vitae, pellentesque ut purus. Ut aliquet ligula urna, eu venenatis mi iaculis ornare. Sed et varius libero. Morbi nec dapibus tellus. Vivamus eu dictum ligula, a consectetur nibh. Vivamus volutpat leo nunc, a tempus enim facilisis id. Donec ac elit gravida, rhoncus odio id, vehicula nisi. Nam pretium gravida tellus, vitae iaculis nisl lobortis id. Donec luctus commodo blandit. Phasellus rhoncus dolor sodales lorem suscipit viverra.",
+        "room": "COLE FIELD HOUSE ROOM 4"
+      },
+      {
+        "hour": "10:45",
+        "name": "CYCLE 45",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus eget blandit ex. Nunc quis finibus velit, maximus suscipit leo. Vestibulum lobortis mattis dui eu pellentesque. Integer luctus mattis quam ut porttitor. Donec in eros ac nunc luctus tincidunt. Nunc eget libero lectus. Praesent massa quam, accumsan quis finibus vitae, pellentesque ut purus. Ut aliquet ligula urna, eu venenatis mi iaculis ornare. Sed et varius libero. Morbi nec dapibus tellus. Vivamus eu dictum ligula, a consectetur nibh. Vivamus volutpat leo nunc, a tempus enim facilisis id. Donec ac elit gravida, rhoncus odio id, vehicula nisi. Nam pretium gravida tellus, vitae iaculis nisl lobortis id. Donec luctus commodo blandit. Phasellus rhoncus dolor sodales lorem suscipit viverra.",
+        "room": "COLE FIELD HOUSE ROOM 4"
+      },
+      {
+        "hour": "11:45",
+        "name": "CYCLE 45",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus eget blandit ex. Nunc quis finibus velit, maximus suscipit leo. Vestibulum lobortis mattis dui eu pellentesque. Integer luctus mattis quam ut porttitor. Donec in eros ac nunc luctus tincidunt. Nunc eget libero lectus. Praesent massa quam, accumsan quis finibus vitae, pellentesque ut purus. Ut aliquet ligula urna, eu venenatis mi iaculis ornare. Sed et varius libero. Morbi nec dapibus tellus. Vivamus eu dictum ligula, a consectetur nibh. Vivamus volutpat leo nunc, a tempus enim facilisis id. Donec ac elit gravida, rhoncus odio id, vehicula nisi. Nam pretium gravida tellus, vitae iaculis nisl lobortis id. Donec luctus commodo blandit. Phasellus rhoncus dolor sodales lorem suscipit viverra.",
+        "room": "COLE FIELD HOUSE ROOM 4"
+      },
+      {
+        "hour": "12:45",
+        "name": "CYCLE 45",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus eget blandit ex. Nunc quis finibus velit, maximus suscipit leo. Vestibulum lobortis mattis dui eu pellentesque. Integer luctus mattis quam ut porttitor. Donec in eros ac nunc luctus tincidunt. Nunc eget libero lectus. Praesent massa quam, accumsan quis finibus vitae, pellentesque ut purus. Ut aliquet ligula urna, eu venenatis mi iaculis ornare. Sed et varius libero. Morbi nec dapibus tellus. Vivamus eu dictum ligula, a consectetur nibh. Vivamus volutpat leo nunc, a tempus enim facilisis id. Donec ac elit gravida, rhoncus odio id, vehicula nisi. Nam pretium gravida tellus, vitae iaculis nisl lobortis id. Donec luctus commodo blandit. Phasellus rhoncus dolor sodales lorem suscipit viverra.",
+        "room": "COLE FIELD HOUSE ROOM 4"
+      },
+    ]
+  },
+  {
+    "day": "2016-05-08",
+    "exercises": [
+      {
+        "hour": "6:45",
+        "name": "ADVANCED YOGA",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus eget blandit ex. Nunc quis finibus velit, maximus suscipit leo. Vestibulum lobortis mattis dui eu pellentesque. Integer luctus mattis quam ut porttitor. Donec in eros ac nunc luctus tincidunt. Nunc eget libero lectus. Praesent massa quam, accumsan quis finibus vitae, pellentesque ut purus. Ut aliquet ligula urna, eu venenatis mi iaculis ornare. Sed et varius libero. Morbi nec dapibus tellus. Vivamus eu dictum ligula, a consectetur nibh. Vivamus volutpat leo nunc, a tempus enim facilisis id. Donec ac elit gravida, rhoncus odio id, vehicula nisi. Nam pretium gravida tellus, vitae iaculis nisl lobortis id. Donec luctus commodo blandit. Phasellus rhoncus dolor sodales lorem suscipit viverra.",
+        "room": "COLE FIELD HOUSE ROOM 4"
+      },
+      {
+        "hour": "7:45",
+        "name": "ADVANCED YOGA",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus eget blandit ex. Nunc quis finibus velit, maximus suscipit leo. Vestibulum lobortis mattis dui eu pellentesque. Integer luctus mattis quam ut porttitor. Donec in eros ac nunc luctus tincidunt. Nunc eget libero lectus. Praesent massa quam, accumsan quis finibus vitae, pellentesque ut purus. Ut aliquet ligula urna, eu venenatis mi iaculis ornare. Sed et varius libero. Morbi nec dapibus tellus. Vivamus eu dictum ligula, a consectetur nibh. Vivamus volutpat leo nunc, a tempus enim facilisis id. Donec ac elit gravida, rhoncus odio id, vehicula nisi. Nam pretium gravida tellus, vitae iaculis nisl lobortis id. Donec luctus commodo blandit. Phasellus rhoncus dolor sodales lorem suscipit viverra.",
+        "room": "COLE FIELD HOUSE ROOM 4"
+      },
+      {
+        "hour": "8:45",
+        "name": "ADVANCED YOGA",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus eget blandit ex. Nunc quis finibus velit, maximus suscipit leo. Vestibulum lobortis mattis dui eu pellentesque. Integer luctus mattis quam ut porttitor. Donec in eros ac nunc luctus tincidunt. Nunc eget libero lectus. Praesent massa quam, accumsan quis finibus vitae, pellentesque ut purus. Ut aliquet ligula urna, eu venenatis mi iaculis ornare. Sed et varius libero. Morbi nec dapibus tellus. Vivamus eu dictum ligula, a consectetur nibh. Vivamus volutpat leo nunc, a tempus enim facilisis id. Donec ac elit gravida, rhoncus odio id, vehicula nisi. Nam pretium gravida tellus, vitae iaculis nisl lobortis id. Donec luctus commodo blandit. Phasellus rhoncus dolor sodales lorem suscipit viverra.",
+        "room": "COLE FIELD HOUSE ROOM 4"
+      },
+      {
+        "hour": "9:45",
+        "name": "ADVANCED YOGA",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus eget blandit ex. Nunc quis finibus velit, maximus suscipit leo. Vestibulum lobortis mattis dui eu pellentesque. Integer luctus mattis quam ut porttitor. Donec in eros ac nunc luctus tincidunt. Nunc eget libero lectus. Praesent massa quam, accumsan quis finibus vitae, pellentesque ut purus. Ut aliquet ligula urna, eu venenatis mi iaculis ornare. Sed et varius libero. Morbi nec dapibus tellus. Vivamus eu dictum ligula, a consectetur nibh. Vivamus volutpat leo nunc, a tempus enim facilisis id. Donec ac elit gravida, rhoncus odio id, vehicula nisi. Nam pretium gravida tellus, vitae iaculis nisl lobortis id. Donec luctus commodo blandit. Phasellus rhoncus dolor sodales lorem suscipit viverra.",
+        "room": "COLE FIELD HOUSE ROOM 4"
+      },
+      {
+        "hour": "9:45",
+        "name": "ADVANCED YOGA",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus eget blandit ex. Nunc quis finibus velit, maximus suscipit leo. Vestibulum lobortis mattis dui eu pellentesque. Integer luctus mattis quam ut porttitor. Donec in eros ac nunc luctus tincidunt. Nunc eget libero lectus. Praesent massa quam, accumsan quis finibus vitae, pellentesque ut purus. Ut aliquet ligula urna, eu venenatis mi iaculis ornare. Sed et varius libero. Morbi nec dapibus tellus. Vivamus eu dictum ligula, a consectetur nibh. Vivamus volutpat leo nunc, a tempus enim facilisis id. Donec ac elit gravida, rhoncus odio id, vehicula nisi. Nam pretium gravida tellus, vitae iaculis nisl lobortis id. Donec luctus commodo blandit. Phasellus rhoncus dolor sodales lorem suscipit viverra.",
+        "room": "COLE FIELD HOUSE ROOM 4"
+      },
+      {
+        "hour": "9:45",
+        "name": "ADVANCED YOGA",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus eget blandit ex. Nunc quis finibus velit, maximus suscipit leo. Vestibulum lobortis mattis dui eu pellentesque. Integer luctus mattis quam ut porttitor. Donec in eros ac nunc luctus tincidunt. Nunc eget libero lectus. Praesent massa quam, accumsan quis finibus vitae, pellentesque ut purus. Ut aliquet ligula urna, eu venenatis mi iaculis ornare. Sed et varius libero. Morbi nec dapibus tellus. Vivamus eu dictum ligula, a consectetur nibh. Vivamus volutpat leo nunc, a tempus enim facilisis id. Donec ac elit gravida, rhoncus odio id, vehicula nisi. Nam pretium gravida tellus, vitae iaculis nisl lobortis id. Donec luctus commodo blandit. Phasellus rhoncus dolor sodales lorem suscipit viverra.",
+        "room": "COLE FIELD HOUSE ROOM 4"
+      },
+      {
+        "hour": "10:45",
+        "name": "ADVANCED YOGA",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus eget blandit ex. Nunc quis finibus velit, maximus suscipit leo. Vestibulum lobortis mattis dui eu pellentesque. Integer luctus mattis quam ut porttitor. Donec in eros ac nunc luctus tincidunt. Nunc eget libero lectus. Praesent massa quam, accumsan quis finibus vitae, pellentesque ut purus. Ut aliquet ligula urna, eu venenatis mi iaculis ornare. Sed et varius libero. Morbi nec dapibus tellus. Vivamus eu dictum ligula, a consectetur nibh. Vivamus volutpat leo nunc, a tempus enim facilisis id. Donec ac elit gravida, rhoncus odio id, vehicula nisi. Nam pretium gravida tellus, vitae iaculis nisl lobortis id. Donec luctus commodo blandit. Phasellus rhoncus dolor sodales lorem suscipit viverra.",
+        "room": "COLE FIELD HOUSE ROOM 4"
+      },
+      {
+        "hour": "11:45",
+        "name": "ADVANCED YOGA",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus eget blandit ex. Nunc quis finibus velit, maximus suscipit leo. Vestibulum lobortis mattis dui eu pellentesque. Integer luctus mattis quam ut porttitor. Donec in eros ac nunc luctus tincidunt. Nunc eget libero lectus. Praesent massa quam, accumsan quis finibus vitae, pellentesque ut purus. Ut aliquet ligula urna, eu venenatis mi iaculis ornare. Sed et varius libero. Morbi nec dapibus tellus. Vivamus eu dictum ligula, a consectetur nibh. Vivamus volutpat leo nunc, a tempus enim facilisis id. Donec ac elit gravida, rhoncus odio id, vehicula nisi. Nam pretium gravida tellus, vitae iaculis nisl lobortis id. Donec luctus commodo blandit. Phasellus rhoncus dolor sodales lorem suscipit viverra.",
+        "room": "COLE FIELD HOUSE ROOM 4"
+      },
+      {
+        "hour": "12:45",
+        "name": "ADVANCED YOGA",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus eget blandit ex. Nunc quis finibus velit, maximus suscipit leo. Vestibulum lobortis mattis dui eu pellentesque. Integer luctus mattis quam ut porttitor. Donec in eros ac nunc luctus tincidunt. Nunc eget libero lectus. Praesent massa quam, accumsan quis finibus vitae, pellentesque ut purus. Ut aliquet ligula urna, eu venenatis mi iaculis ornare. Sed et varius libero. Morbi nec dapibus tellus. Vivamus eu dictum ligula, a consectetur nibh. Vivamus volutpat leo nunc, a tempus enim facilisis id. Donec ac elit gravida, rhoncus odio id, vehicula nisi. Nam pretium gravida tellus, vitae iaculis nisl lobortis id. Donec luctus commodo blandit. Phasellus rhoncus dolor sodales lorem suscipit viverra.",
+        "room": "COLE FIELD HOUSE ROOM 4"
+      },
+    ]
+  },
+  {
+    "day": "2016-05-09",
+    "exercises": [
+      {
+        "hour": "6:45",
+        "name": "BODY STRONG",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus eget blandit ex. Nunc quis finibus velit, maximus suscipit leo. Vestibulum lobortis mattis dui eu pellentesque. Integer luctus mattis quam ut porttitor. Donec in eros ac nunc luctus tincidunt. Nunc eget libero lectus. Praesent massa quam, accumsan quis finibus vitae, pellentesque ut purus. Ut aliquet ligula urna, eu venenatis mi iaculis ornare. Sed et varius libero. Morbi nec dapibus tellus. Vivamus eu dictum ligula, a consectetur nibh. Vivamus volutpat leo nunc, a tempus enim facilisis id. Donec ac elit gravida, rhoncus odio id, vehicula nisi. Nam pretium gravida tellus, vitae iaculis nisl lobortis id. Donec luctus commodo blandit. Phasellus rhoncus dolor sodales lorem suscipit viverra.",
+        "room": "COLE FIELD HOUSE ROOM 4"
+      },
+      {
+        "hour": "7:45",
+        "name": "BODY STRONG",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus eget blandit ex. Nunc quis finibus velit, maximus suscipit leo. Vestibulum lobortis mattis dui eu pellentesque. Integer luctus mattis quam ut porttitor. Donec in eros ac nunc luctus tincidunt. Nunc eget libero lectus. Praesent massa quam, accumsan quis finibus vitae, pellentesque ut purus. Ut aliquet ligula urna, eu venenatis mi iaculis ornare. Sed et varius libero. Morbi nec dapibus tellus. Vivamus eu dictum ligula, a consectetur nibh. Vivamus volutpat leo nunc, a tempus enim facilisis id. Donec ac elit gravida, rhoncus odio id, vehicula nisi. Nam pretium gravida tellus, vitae iaculis nisl lobortis id. Donec luctus commodo blandit. Phasellus rhoncus dolor sodales lorem suscipit viverra.",
+        "room": "COLE FIELD HOUSE ROOM 4"
+      },
+      {
+        "hour": "8:45",
+        "name": "BODY STRONG",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus eget blandit ex. Nunc quis finibus velit, maximus suscipit leo. Vestibulum lobortis mattis dui eu pellentesque. Integer luctus mattis quam ut porttitor. Donec in eros ac nunc luctus tincidunt. Nunc eget libero lectus. Praesent massa quam, accumsan quis finibus vitae, pellentesque ut purus. Ut aliquet ligula urna, eu venenatis mi iaculis ornare. Sed et varius libero. Morbi nec dapibus tellus. Vivamus eu dictum ligula, a consectetur nibh. Vivamus volutpat leo nunc, a tempus enim facilisis id. Donec ac elit gravida, rhoncus odio id, vehicula nisi. Nam pretium gravida tellus, vitae iaculis nisl lobortis id. Donec luctus commodo blandit. Phasellus rhoncus dolor sodales lorem suscipit viverra.",
+        "room": "COLE FIELD HOUSE ROOM 4"
+      },
+      {
+        "hour": "9:45",
+        "name": "BODY STRONG",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus eget blandit ex. Nunc quis finibus velit, maximus suscipit leo. Vestibulum lobortis mattis dui eu pellentesque. Integer luctus mattis quam ut porttitor. Donec in eros ac nunc luctus tincidunt. Nunc eget libero lectus. Praesent massa quam, accumsan quis finibus vitae, pellentesque ut purus. Ut aliquet ligula urna, eu venenatis mi iaculis ornare. Sed et varius libero. Morbi nec dapibus tellus. Vivamus eu dictum ligula, a consectetur nibh. Vivamus volutpat leo nunc, a tempus enim facilisis id. Donec ac elit gravida, rhoncus odio id, vehicula nisi. Nam pretium gravida tellus, vitae iaculis nisl lobortis id. Donec luctus commodo blandit. Phasellus rhoncus dolor sodales lorem suscipit viverra.",
+        "room": "COLE FIELD HOUSE ROOM 4"
+      },
+      {
+        "hour": "9:45",
+        "name": "BODY STRONG",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus eget blandit ex. Nunc quis finibus velit, maximus suscipit leo. Vestibulum lobortis mattis dui eu pellentesque. Integer luctus mattis quam ut porttitor. Donec in eros ac nunc luctus tincidunt. Nunc eget libero lectus. Praesent massa quam, accumsan quis finibus vitae, pellentesque ut purus. Ut aliquet ligula urna, eu venenatis mi iaculis ornare. Sed et varius libero. Morbi nec dapibus tellus. Vivamus eu dictum ligula, a consectetur nibh. Vivamus volutpat leo nunc, a tempus enim facilisis id. Donec ac elit gravida, rhoncus odio id, vehicula nisi. Nam pretium gravida tellus, vitae iaculis nisl lobortis id. Donec luctus commodo blandit. Phasellus rhoncus dolor sodales lorem suscipit viverra.",
+        "room": "COLE FIELD HOUSE ROOM 4"
+      },
+      {
+        "hour": "9:45",
+        "name": "BODY STRONG",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus eget blandit ex. Nunc quis finibus velit, maximus suscipit leo. Vestibulum lobortis mattis dui eu pellentesque. Integer luctus mattis quam ut porttitor. Donec in eros ac nunc luctus tincidunt. Nunc eget libero lectus. Praesent massa quam, accumsan quis finibus vitae, pellentesque ut purus. Ut aliquet ligula urna, eu venenatis mi iaculis ornare. Sed et varius libero. Morbi nec dapibus tellus. Vivamus eu dictum ligula, a consectetur nibh. Vivamus volutpat leo nunc, a tempus enim facilisis id. Donec ac elit gravida, rhoncus odio id, vehicula nisi. Nam pretium gravida tellus, vitae iaculis nisl lobortis id. Donec luctus commodo blandit. Phasellus rhoncus dolor sodales lorem suscipit viverra.",
+        "room": "COLE FIELD HOUSE ROOM 4"
+      },
+      {
+        "hour": "10:45",
+        "name": "BODY STRONG",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus eget blandit ex. Nunc quis finibus velit, maximus suscipit leo. Vestibulum lobortis mattis dui eu pellentesque. Integer luctus mattis quam ut porttitor. Donec in eros ac nunc luctus tincidunt. Nunc eget libero lectus. Praesent massa quam, accumsan quis finibus vitae, pellentesque ut purus. Ut aliquet ligula urna, eu venenatis mi iaculis ornare. Sed et varius libero. Morbi nec dapibus tellus. Vivamus eu dictum ligula, a consectetur nibh. Vivamus volutpat leo nunc, a tempus enim facilisis id. Donec ac elit gravida, rhoncus odio id, vehicula nisi. Nam pretium gravida tellus, vitae iaculis nisl lobortis id. Donec luctus commodo blandit. Phasellus rhoncus dolor sodales lorem suscipit viverra.",
+        "room": "COLE FIELD HOUSE ROOM 4"
+      },
+      {
+        "hour": "11:45",
+        "name": "BODY STRONG",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus eget blandit ex. Nunc quis finibus velit, maximus suscipit leo. Vestibulum lobortis mattis dui eu pellentesque. Integer luctus mattis quam ut porttitor. Donec in eros ac nunc luctus tincidunt. Nunc eget libero lectus. Praesent massa quam, accumsan quis finibus vitae, pellentesque ut purus. Ut aliquet ligula urna, eu venenatis mi iaculis ornare. Sed et varius libero. Morbi nec dapibus tellus. Vivamus eu dictum ligula, a consectetur nibh. Vivamus volutpat leo nunc, a tempus enim facilisis id. Donec ac elit gravida, rhoncus odio id, vehicula nisi. Nam pretium gravida tellus, vitae iaculis nisl lobortis id. Donec luctus commodo blandit. Phasellus rhoncus dolor sodales lorem suscipit viverra.",
+        "room": "COLE FIELD HOUSE ROOM 4"
+      },
+      {
+        "hour": "12:45",
+        "name": "BODY STRONG",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus eget blandit ex. Nunc quis finibus velit, maximus suscipit leo. Vestibulum lobortis mattis dui eu pellentesque. Integer luctus mattis quam ut porttitor. Donec in eros ac nunc luctus tincidunt. Nunc eget libero lectus. Praesent massa quam, accumsan quis finibus vitae, pellentesque ut purus. Ut aliquet ligula urna, eu venenatis mi iaculis ornare. Sed et varius libero. Morbi nec dapibus tellus. Vivamus eu dictum ligula, a consectetur nibh. Vivamus volutpat leo nunc, a tempus enim facilisis id. Donec ac elit gravida, rhoncus odio id, vehicula nisi. Nam pretium gravida tellus, vitae iaculis nisl lobortis id. Donec luctus commodo blandit. Phasellus rhoncus dolor sodales lorem suscipit viverra.",
+        "room": "COLE FIELD HOUSE ROOM 4"
+      },
+    ]
+  },
+  {
+    "day": "2016-05-10",
+    "exercises": [
+      {
+        "hour": "6:45",
+        "name": "INSANITY 50",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus eget blandit ex. Nunc quis finibus velit, maximus suscipit leo. Vestibulum lobortis mattis dui eu pellentesque. Integer luctus mattis quam ut porttitor. Donec in eros ac nunc luctus tincidunt. Nunc eget libero lectus. Praesent massa quam, accumsan quis finibus vitae, pellentesque ut purus. Ut aliquet ligula urna, eu venenatis mi iaculis ornare. Sed et varius libero. Morbi nec dapibus tellus. Vivamus eu dictum ligula, a consectetur nibh. Vivamus volutpat leo nunc, a tempus enim facilisis id. Donec ac elit gravida, rhoncus odio id, vehicula nisi. Nam pretium gravida tellus, vitae iaculis nisl lobortis id. Donec luctus commodo blandit. Phasellus rhoncus dolor sodales lorem suscipit viverra.",
+        "room": "COLE FIELD HOUSE ROOM 4"
+      },
+      {
+        "hour": "7:45",
+        "name": "INSANITY 50",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus eget blandit ex. Nunc quis finibus velit, maximus suscipit leo. Vestibulum lobortis mattis dui eu pellentesque. Integer luctus mattis quam ut porttitor. Donec in eros ac nunc luctus tincidunt. Nunc eget libero lectus. Praesent massa quam, accumsan quis finibus vitae, pellentesque ut purus. Ut aliquet ligula urna, eu venenatis mi iaculis ornare. Sed et varius libero. Morbi nec dapibus tellus. Vivamus eu dictum ligula, a consectetur nibh. Vivamus volutpat leo nunc, a tempus enim facilisis id. Donec ac elit gravida, rhoncus odio id, vehicula nisi. Nam pretium gravida tellus, vitae iaculis nisl lobortis id. Donec luctus commodo blandit. Phasellus rhoncus dolor sodales lorem suscipit viverra.",
+        "room": "COLE FIELD HOUSE ROOM 4"
+      },
+      {
+        "hour": "8:45",
+        "name": "INSANITY 50",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus eget blandit ex. Nunc quis finibus velit, maximus suscipit leo. Vestibulum lobortis mattis dui eu pellentesque. Integer luctus mattis quam ut porttitor. Donec in eros ac nunc luctus tincidunt. Nunc eget libero lectus. Praesent massa quam, accumsan quis finibus vitae, pellentesque ut purus. Ut aliquet ligula urna, eu venenatis mi iaculis ornare. Sed et varius libero. Morbi nec dapibus tellus. Vivamus eu dictum ligula, a consectetur nibh. Vivamus volutpat leo nunc, a tempus enim facilisis id. Donec ac elit gravida, rhoncus odio id, vehicula nisi. Nam pretium gravida tellus, vitae iaculis nisl lobortis id. Donec luctus commodo blandit. Phasellus rhoncus dolor sodales lorem suscipit viverra.",
+        "room": "COLE FIELD HOUSE ROOM 4"
+      },
+      {
+        "hour": "9:45",
+        "name": "INSANITY 50",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus eget blandit ex. Nunc quis finibus velit, maximus suscipit leo. Vestibulum lobortis mattis dui eu pellentesque. Integer luctus mattis quam ut porttitor. Donec in eros ac nunc luctus tincidunt. Nunc eget libero lectus. Praesent massa quam, accumsan quis finibus vitae, pellentesque ut purus. Ut aliquet ligula urna, eu venenatis mi iaculis ornare. Sed et varius libero. Morbi nec dapibus tellus. Vivamus eu dictum ligula, a consectetur nibh. Vivamus volutpat leo nunc, a tempus enim facilisis id. Donec ac elit gravida, rhoncus odio id, vehicula nisi. Nam pretium gravida tellus, vitae iaculis nisl lobortis id. Donec luctus commodo blandit. Phasellus rhoncus dolor sodales lorem suscipit viverra.",
+        "room": "COLE FIELD HOUSE ROOM 4"
+      },
+      {
+        "hour": "9:45",
+        "name": "INSANITY 50",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus eget blandit ex. Nunc quis finibus velit, maximus suscipit leo. Vestibulum lobortis mattis dui eu pellentesque. Integer luctus mattis quam ut porttitor. Donec in eros ac nunc luctus tincidunt. Nunc eget libero lectus. Praesent massa quam, accumsan quis finibus vitae, pellentesque ut purus. Ut aliquet ligula urna, eu venenatis mi iaculis ornare. Sed et varius libero. Morbi nec dapibus tellus. Vivamus eu dictum ligula, a consectetur nibh. Vivamus volutpat leo nunc, a tempus enim facilisis id. Donec ac elit gravida, rhoncus odio id, vehicula nisi. Nam pretium gravida tellus, vitae iaculis nisl lobortis id. Donec luctus commodo blandit. Phasellus rhoncus dolor sodales lorem suscipit viverra.",
+        "room": "COLE FIELD HOUSE ROOM 4"
+      },
+      {
+        "hour": "9:45",
+        "name": "INSANITY 50",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus eget blandit ex. Nunc quis finibus velit, maximus suscipit leo. Vestibulum lobortis mattis dui eu pellentesque. Integer luctus mattis quam ut porttitor. Donec in eros ac nunc luctus tincidunt. Nunc eget libero lectus. Praesent massa quam, accumsan quis finibus vitae, pellentesque ut purus. Ut aliquet ligula urna, eu venenatis mi iaculis ornare. Sed et varius libero. Morbi nec dapibus tellus. Vivamus eu dictum ligula, a consectetur nibh. Vivamus volutpat leo nunc, a tempus enim facilisis id. Donec ac elit gravida, rhoncus odio id, vehicula nisi. Nam pretium gravida tellus, vitae iaculis nisl lobortis id. Donec luctus commodo blandit. Phasellus rhoncus dolor sodales lorem suscipit viverra.",
+        "room": "COLE FIELD HOUSE ROOM 4"
+      },
+      {
+        "hour": "10:45",
+        "name": "INSANITY 50",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus eget blandit ex. Nunc quis finibus velit, maximus suscipit leo. Vestibulum lobortis mattis dui eu pellentesque. Integer luctus mattis quam ut porttitor. Donec in eros ac nunc luctus tincidunt. Nunc eget libero lectus. Praesent massa quam, accumsan quis finibus vitae, pellentesque ut purus. Ut aliquet ligula urna, eu venenatis mi iaculis ornare. Sed et varius libero. Morbi nec dapibus tellus. Vivamus eu dictum ligula, a consectetur nibh. Vivamus volutpat leo nunc, a tempus enim facilisis id. Donec ac elit gravida, rhoncus odio id, vehicula nisi. Nam pretium gravida tellus, vitae iaculis nisl lobortis id. Donec luctus commodo blandit. Phasellus rhoncus dolor sodales lorem suscipit viverra.",
+        "room": "COLE FIELD HOUSE ROOM 4"
+      },
+      {
+        "hour": "11:45",
+        "name": "INSANITY 50",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus eget blandit ex. Nunc quis finibus velit, maximus suscipit leo. Vestibulum lobortis mattis dui eu pellentesque. Integer luctus mattis quam ut porttitor. Donec in eros ac nunc luctus tincidunt. Nunc eget libero lectus. Praesent massa quam, accumsan quis finibus vitae, pellentesque ut purus. Ut aliquet ligula urna, eu venenatis mi iaculis ornare. Sed et varius libero. Morbi nec dapibus tellus. Vivamus eu dictum ligula, a consectetur nibh. Vivamus volutpat leo nunc, a tempus enim facilisis id. Donec ac elit gravida, rhoncus odio id, vehicula nisi. Nam pretium gravida tellus, vitae iaculis nisl lobortis id. Donec luctus commodo blandit. Phasellus rhoncus dolor sodales lorem suscipit viverra.",
+        "room": "COLE FIELD HOUSE ROOM 4"
+      },
+      {
+        "hour": "12:45",
+        "name": "INSANITY 50",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus eget blandit ex. Nunc quis finibus velit, maximus suscipit leo. Vestibulum lobortis mattis dui eu pellentesque. Integer luctus mattis quam ut porttitor. Donec in eros ac nunc luctus tincidunt. Nunc eget libero lectus. Praesent massa quam, accumsan quis finibus vitae, pellentesque ut purus. Ut aliquet ligula urna, eu venenatis mi iaculis ornare. Sed et varius libero. Morbi nec dapibus tellus. Vivamus eu dictum ligula, a consectetur nibh. Vivamus volutpat leo nunc, a tempus enim facilisis id. Donec ac elit gravida, rhoncus odio id, vehicula nisi. Nam pretium gravida tellus, vitae iaculis nisl lobortis id. Donec luctus commodo blandit. Phasellus rhoncus dolor sodales lorem suscipit viverra.",
+        "room": "COLE FIELD HOUSE ROOM 4"
+      },
+    ]
+  },
+  {
+    "day": "2016-05-11",
+    "exercises": [
+      {
+        "hour": "6:45",
+        "name": "CYCLE 45",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus eget blandit ex. Nunc quis finibus velit, maximus suscipit leo. Vestibulum lobortis mattis dui eu pellentesque. Integer luctus mattis quam ut porttitor. Donec in eros ac nunc luctus tincidunt. Nunc eget libero lectus. Praesent massa quam, accumsan quis finibus vitae, pellentesque ut purus. Ut aliquet ligula urna, eu venenatis mi iaculis ornare. Sed et varius libero. Morbi nec dapibus tellus. Vivamus eu dictum ligula, a consectetur nibh. Vivamus volutpat leo nunc, a tempus enim facilisis id. Donec ac elit gravida, rhoncus odio id, vehicula nisi. Nam pretium gravida tellus, vitae iaculis nisl lobortis id. Donec luctus commodo blandit. Phasellus rhoncus dolor sodales lorem suscipit viverra.",
+        "room": "COLE FIELD HOUSE ROOM 4"
+      },
+      {
+        "hour": "7:45",
+        "name": "CYCLE 45",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus eget blandit ex. Nunc quis finibus velit, maximus suscipit leo. Vestibulum lobortis mattis dui eu pellentesque. Integer luctus mattis quam ut porttitor. Donec in eros ac nunc luctus tincidunt. Nunc eget libero lectus. Praesent massa quam, accumsan quis finibus vitae, pellentesque ut purus. Ut aliquet ligula urna, eu venenatis mi iaculis ornare. Sed et varius libero. Morbi nec dapibus tellus. Vivamus eu dictum ligula, a consectetur nibh. Vivamus volutpat leo nunc, a tempus enim facilisis id. Donec ac elit gravida, rhoncus odio id, vehicula nisi. Nam pretium gravida tellus, vitae iaculis nisl lobortis id. Donec luctus commodo blandit. Phasellus rhoncus dolor sodales lorem suscipit viverra.",
+        "room": "COLE FIELD HOUSE ROOM 4"
+      },
+      {
+        "hour": "8:45",
+        "name": "CYCLE 45",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus eget blandit ex. Nunc quis finibus velit, maximus suscipit leo. Vestibulum lobortis mattis dui eu pellentesque. Integer luctus mattis quam ut porttitor. Donec in eros ac nunc luctus tincidunt. Nunc eget libero lectus. Praesent massa quam, accumsan quis finibus vitae, pellentesque ut purus. Ut aliquet ligula urna, eu venenatis mi iaculis ornare. Sed et varius libero. Morbi nec dapibus tellus. Vivamus eu dictum ligula, a consectetur nibh. Vivamus volutpat leo nunc, a tempus enim facilisis id. Donec ac elit gravida, rhoncus odio id, vehicula nisi. Nam pretium gravida tellus, vitae iaculis nisl lobortis id. Donec luctus commodo blandit. Phasellus rhoncus dolor sodales lorem suscipit viverra.",
+        "room": "COLE FIELD HOUSE ROOM 4"
+      },
+      {
+        "hour": "9:45",
+        "name": "CYCLE 45",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus eget blandit ex. Nunc quis finibus velit, maximus suscipit leo. Vestibulum lobortis mattis dui eu pellentesque. Integer luctus mattis quam ut porttitor. Donec in eros ac nunc luctus tincidunt. Nunc eget libero lectus. Praesent massa quam, accumsan quis finibus vitae, pellentesque ut purus. Ut aliquet ligula urna, eu venenatis mi iaculis ornare. Sed et varius libero. Morbi nec dapibus tellus. Vivamus eu dictum ligula, a consectetur nibh. Vivamus volutpat leo nunc, a tempus enim facilisis id. Donec ac elit gravida, rhoncus odio id, vehicula nisi. Nam pretium gravida tellus, vitae iaculis nisl lobortis id. Donec luctus commodo blandit. Phasellus rhoncus dolor sodales lorem suscipit viverra.",
+        "room": "COLE FIELD HOUSE ROOM 4"
+      },
+      {
+        "hour": "9:45",
+        "name": "CYCLE 45",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus eget blandit ex. Nunc quis finibus velit, maximus suscipit leo. Vestibulum lobortis mattis dui eu pellentesque. Integer luctus mattis quam ut porttitor. Donec in eros ac nunc luctus tincidunt. Nunc eget libero lectus. Praesent massa quam, accumsan quis finibus vitae, pellentesque ut purus. Ut aliquet ligula urna, eu venenatis mi iaculis ornare. Sed et varius libero. Morbi nec dapibus tellus. Vivamus eu dictum ligula, a consectetur nibh. Vivamus volutpat leo nunc, a tempus enim facilisis id. Donec ac elit gravida, rhoncus odio id, vehicula nisi. Nam pretium gravida tellus, vitae iaculis nisl lobortis id. Donec luctus commodo blandit. Phasellus rhoncus dolor sodales lorem suscipit viverra.",
+        "room": "COLE FIELD HOUSE ROOM 4"
+      },
+      {
+        "hour": "9:45",
+        "name": "CYCLE 45",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus eget blandit ex. Nunc quis finibus velit, maximus suscipit leo. Vestibulum lobortis mattis dui eu pellentesque. Integer luctus mattis quam ut porttitor. Donec in eros ac nunc luctus tincidunt. Nunc eget libero lectus. Praesent massa quam, accumsan quis finibus vitae, pellentesque ut purus. Ut aliquet ligula urna, eu venenatis mi iaculis ornare. Sed et varius libero. Morbi nec dapibus tellus. Vivamus eu dictum ligula, a consectetur nibh. Vivamus volutpat leo nunc, a tempus enim facilisis id. Donec ac elit gravida, rhoncus odio id, vehicula nisi. Nam pretium gravida tellus, vitae iaculis nisl lobortis id. Donec luctus commodo blandit. Phasellus rhoncus dolor sodales lorem suscipit viverra.",
+        "room": "COLE FIELD HOUSE ROOM 4"
+      },
+      {
+        "hour": "10:45",
+        "name": "CYCLE 45",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus eget blandit ex. Nunc quis finibus velit, maximus suscipit leo. Vestibulum lobortis mattis dui eu pellentesque. Integer luctus mattis quam ut porttitor. Donec in eros ac nunc luctus tincidunt. Nunc eget libero lectus. Praesent massa quam, accumsan quis finibus vitae, pellentesque ut purus. Ut aliquet ligula urna, eu venenatis mi iaculis ornare. Sed et varius libero. Morbi nec dapibus tellus. Vivamus eu dictum ligula, a consectetur nibh. Vivamus volutpat leo nunc, a tempus enim facilisis id. Donec ac elit gravida, rhoncus odio id, vehicula nisi. Nam pretium gravida tellus, vitae iaculis nisl lobortis id. Donec luctus commodo blandit. Phasellus rhoncus dolor sodales lorem suscipit viverra.",
+        "room": "COLE FIELD HOUSE ROOM 4"
+      },
+      {
+        "hour": "11:45",
+        "name": "CYCLE 45",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus eget blandit ex. Nunc quis finibus velit, maximus suscipit leo. Vestibulum lobortis mattis dui eu pellentesque. Integer luctus mattis quam ut porttitor. Donec in eros ac nunc luctus tincidunt. Nunc eget libero lectus. Praesent massa quam, accumsan quis finibus vitae, pellentesque ut purus. Ut aliquet ligula urna, eu venenatis mi iaculis ornare. Sed et varius libero. Morbi nec dapibus tellus. Vivamus eu dictum ligula, a consectetur nibh. Vivamus volutpat leo nunc, a tempus enim facilisis id. Donec ac elit gravida, rhoncus odio id, vehicula nisi. Nam pretium gravida tellus, vitae iaculis nisl lobortis id. Donec luctus commodo blandit. Phasellus rhoncus dolor sodales lorem suscipit viverra.",
+        "room": "COLE FIELD HOUSE ROOM 4"
+      },
+      {
+        "hour": "12:45",
+        "name": "CYCLE 45",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus eget blandit ex. Nunc quis finibus velit, maximus suscipit leo. Vestibulum lobortis mattis dui eu pellentesque. Integer luctus mattis quam ut porttitor. Donec in eros ac nunc luctus tincidunt. Nunc eget libero lectus. Praesent massa quam, accumsan quis finibus vitae, pellentesque ut purus. Ut aliquet ligula urna, eu venenatis mi iaculis ornare. Sed et varius libero. Morbi nec dapibus tellus. Vivamus eu dictum ligula, a consectetur nibh. Vivamus volutpat leo nunc, a tempus enim facilisis id. Donec ac elit gravida, rhoncus odio id, vehicula nisi. Nam pretium gravida tellus, vitae iaculis nisl lobortis id. Donec luctus commodo blandit. Phasellus rhoncus dolor sodales lorem suscipit viverra.",
+        "room": "COLE FIELD HOUSE ROOM 4"
+      },
+    ]
+  },
+]
